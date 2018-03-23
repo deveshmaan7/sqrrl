@@ -1,0 +1,42 @@
+div .main-form {
+  margin-top: 50px;
+}
+
+.input {
+  font-size: 30px;
+  margin-left: 260px;
+  margin-bottom: 20px;
+  padding: 30px;
+  width: 60%;
+  border-radius: 30px;
+}
+
+
+div .helpBlock {
+  font-size: 2em;
+  text-align: center;
+  color: #101231;
+  letter-spacing: 1px;
+  font-family: Roboto;
+}
+
+.button{
+  background-color:#152537;
+  border:none;
+  color: #FAFAFA;
+  font-size: 30px;
+  text-align: center;
+  padding: 30px 30px;
+  border-radius: 50%;
+  margin-right: 50%;
+}
+
+.button:hover {
+  background-color:#10243C;
+  color: #FAFAFA;
+  outline: none !important;
+}
+
+.image {
+  margin-top: 100px;
+}
